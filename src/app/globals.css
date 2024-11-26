@@ -27,6 +27,10 @@ body {
   font-family: var(--font-barcelona);
 }
 
+.navbar {
+  font-family: 'Barcelona', sans-serif; /* Apply font family to the entire navbar */
+}
+
 .font-barcelona {
   font-family: var(--font-barcelona);
 }

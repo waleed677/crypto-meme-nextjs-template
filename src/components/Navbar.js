@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className="flex justify-around items-center bg-gray-900 px-8 py-4"> {/* Added px-8 for horizontal padding */}
+    <div className="flex justify-around items-center bg-gray-900 px-8 py-4 navbar"> {/* Added px-8 for horizontal padding */}
       <div className="text-pink-400 text-3xl font-bold">POND⛧X</div>
       <div className="flex space-x-6">
         <a href="#home" className="text-white hover:text-pink-400">HOME</a>
